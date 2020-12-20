@@ -1,6 +1,6 @@
 ---
 title: "Video Game Sales Analysis - STAT 423"
-excerpt: "<img src='/images/video_game_sales_poster.png' {max-width:100%; 
+excerpt: "<img src='/images/video_game_sales_poster.png' {max-width:60%; 
                         height:auto; >"
 collection: portfolio
 ---
