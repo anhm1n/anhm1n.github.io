@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first generation immigrant and a first-year MS Capstone student in the [Biostatistics Department at the University of Washington](https://www.biostat.washington.edu/). I believe that data and the way we interpret can drive us to ask the right questions and make better decisions!
+Hello! I am a first generation resident and a first-year MS Capstone student in the [Biostatistics Department at the University of Washington](https://www.biostat.washington.edu/). I believe that data and the way we interpret can drive us to ask the right questions and make better decisions!
 
 In my free time, I like to play Hearthstone: Battlegrounds, exercise, and watch tv and movies. I'm a huge fan of jogging and for extra income, I tutor!
 
