@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Anh-Minh Nguyen's Personal Website"
 description              : &description "personal description"
 url                      : https://anhm1n.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/anh-minh-nguyen-9757b6117/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
