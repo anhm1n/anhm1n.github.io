@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anh-Minh Nguyen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anh-Minh Nguyen"
   avatar           : "profile.png"
-  bio              : "Team Player"
+  bio              : "Statistics and pizza"
   location         : "Seattle, WA"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
