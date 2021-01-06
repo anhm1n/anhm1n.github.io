@@ -5,4 +5,10 @@ permalink: /extra/
 author_profile: true
 ---
 
-I love pizza.
+## Skills
+
+* Languages: R, SQL, MATLAB, Python, Java
+* Data Preparation/Presentation: Visualization, Manipulation, Wrangling
+* Data Analysis: Probability/Statistics, Descriptive Statistics, Statistical Analysis, Inference/Prediction
+
+
