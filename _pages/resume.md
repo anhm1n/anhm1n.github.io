@@ -22,9 +22,9 @@ Sep. 2015 – March 2020
 ## Relevant Experience
 ### Data Science Student Assistant | *R, RShiny* November 2019 – October 2020
 #### *University of Washington Seattle, WA*
-*Conducted data wrangling, manipulation, analysis, and visualization involving PFS, OS, medications and various other features and outcomes of cancer patients. Included survival analysis and various machine learning methods.
-*Built a score calculator to predict risk of being tested positive for a certain disease within a year of stem cell transplant.
-*Maintained discrepancy of research goals and documented tasks effectively for research lead to present to physician.
+* Conducted data wrangling, manipulation, analysis, and visualization involving PFS, OS, medications and various other features and outcomes of cancer patients. Included survival analysis and various machine learning methods.
+* Built a score calculator to predict risk of being tested positive for a certain disease within a year of stem cell transplant.
+* Maintained discrepancy of research goals and documented tasks effectively for research lead to present to physician.
 
 ## Projects
 ### Quiz App | *Python, GIMPshop, Inkscape Project* May 2020
