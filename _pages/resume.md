@@ -16,7 +16,8 @@ Bachelor of Science in Statistics, Minor in Mathematics, Applied Mathematics
 Sep. 2015 – March 2020
 
 ## Current Position
-### Academic Tutor October 2020 - *Present*
+### Tutor October 2020 - *Present*
+#### *University of Washington Seattle, WA*
 * Provide tutoring in biostatistics and programming for graduate students
 
 ## Relevant Experience
