@@ -61,10 +61,3 @@ Sep. 2015 – March 2020
 * Created organization’s Instagram. Had the highest amount of social media engagement among all other organization social platforms.
 * Designed the graduation program for the University of Washington Department of Statistics Virtual Graduation Ceremony in 2020.
 
-### Skills
-
-* Languages: R, SQL, MATLAB, Python, Java
-* Other: Markdown, LaTex
-* Data Preparation/Presentation: Visualization, Manipulation, Wrangling
-* Data Analysis: Probability/Statistics, Descriptive Statistics, Statistical Analysis, Inference/Prediction
-
