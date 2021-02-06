@@ -1,7 +1,7 @@
 ---
 title: 'The True Horror of Horror Movies'
-date: 2020-01-20
-permalink: /posts/2020/01/the_true_horror_of_horror_movies/
+date: 2021-01-20
+permalink: /posts/2021/01/the_true_horror_of_horror_movies/
 tags:
   - mental health
   - movies
