@@ -1,5 +1,5 @@
 ---
-title: 'The "You" in YouTube'
+title: 'The You in YouTube'
 date: 2021-02-05
 permalink: /posts/2021/02/the_you_in_youtube/
 tags:
