@@ -1,0 +1,24 @@
+---
+title: 'The "You" in YouTube'
+date: 2020-02-05
+permalink: /posts/2020/01/the_you_in_youtube/
+tags:
+  - youtube
+  - design
+---
+
+Artificial intelligence has arrived on the popular content platforms that we use in a questionable fashion, and what it's trying to automate is your searching. It undoubtedly has its benefits, the main one being that it works apparently. I am positive that companies are not spending thousands to millions of dollars developing extensive recommendation systems if they did not. And it is most definitely a safe strategy. If someone has searched for something intentionally and then proceeded to consume that searched content, then indeed, they might like similar content. However, instead of treating it as an opportunity for something innocent like A/B testing, these algorithms act like a chaotic reinforcement learning algorithm. They take that initial input and over-optimize.
+
+The platform that heavily inspired this article was YouTube (and Instagram, but that's another discussion). I watch one video about a certain topic, and YouTube will recommend hundreds of others like it. Because of the amount of content uploaded to this platform every day, YouTube has a never ending supply of copy and paste content. So, it's quite possible for a user to never experience anything else on the platform. Due to this, I posit that this may be damaging YouTube in the long-term in the form of burnout and boredom.
+
+If I had to guess, I think YouTube has some sort of algorithm that heavily favors covariates like "content creator" and "topic", where "content creator" is the specific user that created said content and "topic" is the subject material classification for the content that is specific, such as "Game of Thrones" or "NFL" instead of "Fantasy TV" or "Sports". And due to the sheer amount of content created within a "topic", a user can be recommended similar content and respective creators until the end of time, where the user effectively ends up in content purgatory
+
+YouTube also likely utilizes a recommendation system that recommends content based on what similar users have watched. If two similar users, user A and user B, both watched video X, and user A watched video Y, then user B might watch video Y. So, video Y will be recommended to user B. Of course, this happens on a much larger scale on the platform. I may be inexperienced, but I think the same problem still unfolds:  if video Y is recommended and user B watches it, then video Y will also be recommended to other similar users, leading to a crowd-sourced content purgatory. So, recommendations will only offer more of the same.
+
+Now, if we were to speculate further on why YouTube believe this recommendation system works, positive metrics like higher amounts of engagement in the form of likes and comments may be confounded with an increasing number of users. Young children might be influencing the results heavily because they have more free time and can watch similar content without burning out or becoming bored unlike the rest of us.
+
+I think it's important to mention that YouTube, as it is right now, may be awesome for some people, and they prefer it this way. However, I think it's possible to tweak the platform to accommodate other users who may seek a more diverse experience.
+
+One quality of life feature YouTube could implement is a "refresh" button where the algorithm resets and users can curate their feed once more. But, I understand this probably would be a nightmare to code especially if a user could refresh and keep their Liked Videos or the record of videos they commented on at the same time. A "refresh" button introduces novelty, akin to the feeling of browsing a store's updated inventory. Novelty may energize users to keep using YouTube.
+
+In a way, I think YouTube has foreseen this problem and has already taken steps to address it through implementing new features like community posts, YouTube Movies & Shows, and YouTube Stories to try to capture some of the magic of Twitter, Netflix, and TikTok. It might not be for this reason, but users are burning out and finding refreshing content on other platforms. I think YouTube needs to tune down its models and realize that working with its users is better than automating their searching and trying to spoon-feed them. Focusing on bringing life back to the "Subscribe" function is the key because as of right now, that's what the "Home" page feels like. The "Home" page should be a launch pad for users to explore and find new, engaging content. YouTube is trying to become like TikTok, Instagram, and Twitter in terms of how they deliver content to the user, but I think adopting a design philosophy similar to Netflix and other streaming services would be the correct path. YouTube needs to realize that its strength and longevity lies not in the sheer amount of content it hosts, but in the sheer diversity and complexity of that content.
