@@ -1,7 +1,7 @@
 ---
 title: 'The "You" in YouTube'
-date: 2020-02-05
-permalink: /posts/2020/01/the_you_in_youtube/
+date: 2021-02-05
+permalink: /posts/2021/02/the_you_in_youtube/
 tags:
   - youtube
   - design
