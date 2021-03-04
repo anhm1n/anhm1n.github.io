@@ -1,5 +1,6 @@
 ---
 title: "Cancer Patients C. Diff. Infection Calculator"
+date: "2020-08-20"
 excerpt: "A score calculator I built when I was a student assistant."
 collection: portfolio
 ---
