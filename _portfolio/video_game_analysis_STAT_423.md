@@ -1,5 +1,6 @@
 ---
 title: "Video Game Sales Analysis - STAT 423"
+date: "2020-03-20"
 excerpt: "A final project for STAT 423 at the University of Washington."
 collection: portfolio
 ---
