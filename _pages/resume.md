@@ -50,14 +50,3 @@ Sep. 2015 – March 2020
 #### *Snohomish County, Everett, WA*
 * Instructed students, ages 3-15 and differing mental and physical abilities, how to swim and behave in various aquatic environments and received high supervisor and customer scores on evaluations.
 * Created new drills and games, including a new teaching scheme for scissors kicks, that became widely used by other instructors.
-
-### UW Dream Project TEC High School Lead February - June 2017
-#### *University of Washington Seattle, WA*
-* Educated a small group of college students weekly on the topic of mentoring students from socioeconomically disadvantaged and culturally diverse backgrounds.
-* Established safe environment for leads and students to address problematic behavior and foster personal growth successfully.
-
-### Statistics and Probability Association | Media Outreach and Marketing September 2019-August 2020
-#### *University of Washington Seattle, WA*
-* Created organization’s Instagram. Had the highest amount of social media engagement among all other organization social platforms.
-* Designed the graduation program for the University of Washington Department of Statistics Virtual Graduation Ceremony in 2020.
-
