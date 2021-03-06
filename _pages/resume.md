@@ -18,7 +18,8 @@ Sep. 2015 – March 2020
 ## Current Position
 ### Tutor October 2020 - *Present*
 #### *University of Washington Seattle, WA*
-* Provide tutoring in biostatistics and programming for graduate students
+* Provide tutoring in biostatistics and programming for graduate students.
+* Cover topics like p-values, confidence intervals, hypothesis testing and more.
 
 ## Relevant Experience
 ### Data Science Student Assistant | *R, RShiny* November 2019 – October 2020
