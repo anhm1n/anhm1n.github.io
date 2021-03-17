@@ -1,18 +1,11 @@
 ---
 layout: archive
-title: "Extra"
+title: "Extracurriculars"
 permalink: /extra/
 author_profile: true
 ---
 
-### Skills
-
-* Languages: R, SQL, MATLAB, Python, Java
-* Other: Markdown, LaTex
-* Data Preparation/Presentation: Visualization, Manipulation, Wrangling
-* Data Analysis: Probability/Statistics, Descriptive Statistics, Inferential Statistics, Descriptive Statistics
-
-### Volunteer
+### Activities
 
 ### Equity, Diversity, and Inclusion Committee in the Department of Biostatistics | Outreach Subcommittee October 2020 - Present
 #### *University of Washington Seattle, WA*
