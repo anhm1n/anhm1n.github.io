@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Extracurriculars"
-permalink: /extra/
+permalink: /extracurriculars/
 author_profile: true
 ---
 
