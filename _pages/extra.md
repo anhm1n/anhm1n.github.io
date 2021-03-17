@@ -5,7 +5,9 @@ permalink: /extracurriculars/
 author_profile: true
 ---
 
-### Activities
+### UW Graduate School: GO-MAP | GO-MAP Departmental Liaison March 2020 - Present
+#### *University of Washington Seattle, WA*
+* Advocate for BIPOC students within the department of Biostatistics 
 
 ### Equity, Diversity, and Inclusion Committee in the Department of Biostatistics | Outreach Subcommittee October 2020 - Present
 #### *University of Washington Seattle, WA*
