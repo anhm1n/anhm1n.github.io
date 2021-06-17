@@ -5,7 +5,7 @@ permalink: /extracurriculars/
 author_profile: true
 ---
 
-### UW Graduate School: GO-MAP | GO-MAP Departmental Liaison March 2020 - Present
+### UW Graduate School: GO-MAP | GO-MAP Departmental Liaison March 2021 - June 2021
 #### *University of Washington Seattle, WA*
 * Advocate for BIPOC students within the department of Biostatistics 
 
